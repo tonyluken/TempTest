@@ -1,2 +1,2 @@
 This is a windows text file with CRLF EOLs.
-Yes it is.
+Yes it is, and still is.

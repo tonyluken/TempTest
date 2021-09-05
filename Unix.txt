@@ -1,2 +1,2 @@
 This is a Unix text file with LF line endings.
-It is too.
+It is too, and still is.
